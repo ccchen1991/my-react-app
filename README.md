@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/chewchoongchen/react-web-app/_apis/build/status/ccchen1991.my-react-app?branchName=master)](https://dev.azure.com/chewchoongchen/react-web-app/_build/latest?definitionId=2&branchName=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
